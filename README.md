@@ -20,7 +20,7 @@
 <h2>Ссылки:</h2>
 <ul>
 <li><a href="https://trello.com/b/4dR63xVL/оценочник">Trello</a></li>
-<li><a href="https://miro.com/app/board/o9J_lORfzBQ=/>Miro</a></li>
+<li><a href="https://miro.com/app/board/o9J_lORfzBQ=/">Miro</a></li>
 </ul>
 <h2>Email для связи:</h2>
 <ol>
