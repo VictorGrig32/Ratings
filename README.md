@@ -1,6 +1,7 @@
 <p align="center"></p>
 
 <p align="center">
+  <p>Если нужны исходники они на флешке</p>
 <h1>Ratings</h1>
 </p>
 
