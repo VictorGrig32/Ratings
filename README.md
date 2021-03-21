@@ -1,7 +1,7 @@
 <p align="center"></p>
 
 <p align="center">
-<h1>FoodHelper</h1>
+<h1>Ratings</h1>
 </p>
 
 <h2>Описание проекта</h2>
