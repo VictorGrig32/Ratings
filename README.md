@@ -17,11 +17,8 @@
 <li>Григоренко Виктор - Front-end разработчик, дизайнер </li>
 <li>Дмитрий Пахомов - Back-end разработчик, менеджер</li>
 </ul>
-
 <h2>Ссылки:</h2>
 <ul>
-<li><a href="https://github.com/AntonSushilov/FoodHelper/blob/master/Documents/Техническое_задание_FoodHelperV1_3.docx">Техническое задание</a></li>
-<li><a href="https://github.com/AntonSushilov/FoodHelper/blob/master/Documents/Kursovaya.docx">Курсовая работа</a></li>
 <li><a href="https://trello.com/b/4dR63xVL/оценочник">Trello</a></li>
 <li><a href="https://miro.com/app/board/o9J_lORfzBQ=/>Miro</a></li>
 </ul>
@@ -30,4 +27,3 @@
 <li>Григоренко Виктор: <a href="grigorenko200@gmail.com">grigorenko200@gmail.com</a></li>
 <li>Дмитрий Пахомов: <a href="homma2000@bk.ru">homma2000@bk.ru</a></li>
 </ol>
-в
