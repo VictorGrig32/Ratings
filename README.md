@@ -27,6 +27,6 @@
 </ul>
 <h2>Email для связи:</h2>
 <ul>
-<li>Григоренко Виктор: <a href="grigorenko200@gmail.com">grigorenko200@gmail.com</a></li>
+
 <li>Дмитрий Пахомов: <a href="homma2000@bk.ru">homma2000@bk.ru</a></li>
 </ul>
