@@ -1,32 +1,33 @@
-# Prerequisites
-*.d
+# phpstorm project files
+.idea
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# netbeans project files
+nbproject
 
-# Precompiled Headers
-*.gch
-*.pch
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# windows thumbnail cache
+Thumbs.db
 
-# Fortran module files
-*.mod
-*.smod
+# composer vendor dir
+/vendor
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# composer itself is not needed
+composer.phar
 
-# Executables
-*.exe
-*.out
-*.app
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+tests/_output/*
+tests/_support/_generated
+
+#vagrant folder
+/.vagrant
